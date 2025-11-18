@@ -9,8 +9,6 @@
 
 ## 目录
 - [202511](#202511)
-- [202510](#202510)
-- [202509](#202509)
 
 
 ## 如何使用
@@ -25,20 +23,20 @@
 
 ## 202511
 
-## a. 论文周报[1103-1109] (10篇)
+## a. 论文周报[1117] (1篇)
 
-| # | 论文标题 (Title)                                                                                                                                                                                  | 作者 & 年份                  |  状态   |                       我的笔记                       |
-|:-:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------|:-----:|:------------------------------------------------:|
-| 1 | [LLM-as-a-Judge: Toward World Models for Slate Recommendation Systems](https://arxiv.org/abs/2511.04541)<br/> 论文核心：LLM-as-a-Judge——slate推荐的用户偏好世界模型                                              | Baptiste Bonin,2025      | ✅ 已读  | [笔记](notes/2511/1-week/001-LLM-as-a-Judge.md)  |
-| 2 | [Denoised Recommendation Model with Collaborative Signal Decoupling](https://arxiv.org/abs/2511.04237)<br/> 论文核心：DRCSD——基于协同信号解耦的去噪推荐模型                                                        | Zefeng Li,2025           | ✅ 已读  |        [笔记](notes/2511/1-week/002-DRCSD.md)        |
-| 3 | [Discourse-Aware Scientific Paper Recommendation via QA-Style Summarization and Multi-Level Contrastive Learning](https://arxiv.org/abs/2511.03330)   <br/> 论文核心：OMRC-MR——语篇感知的科学论文推荐框架         | Shenghua Wang, 2025      | ✅ 已读  |       [笔记](notes/2511/1-week/003-OMRC-MR.md)        |
-| 4 | [Generative Sequential Recommendation via Hierarchical Behavior Modeling](https://arxiv.org/abs/2511.03155) <br/>  论文核心：MMCoD——跨模态对比去噪的多模态推荐框架                                                 | Zhefan Wang,2025         | ✅ 已读 |        [笔记](notes/2511/1-week/004-MMCoD.md)         |
-| 5 | [No-Human in the Loop: Agentic Evaluation at Scale for Recommendation](https://arxiv.org/abs/2511.03051) <br/> 论文核心：ScalingEval——无人工参与的互补物品推荐LLM评估框架                                          | Tao Zhang, 2025          | ✅ 已读 | [笔记](notes/2511/1-week/005-ScalingEval.md) |
-| 6 | [KGBridge: Knowledge-Guided Prompt Learning for Non-overlapping Cross-Domain Recommendation](https://arxiv.org/abs/2511.02181) <br/> 论文核心：KGBridge——知识引导提示学习的非重叠跨域推荐框架                       | Yuhan Wang, 2025         | ✅ 已读 |       [笔记](notes/2511/1-week/006-KGBridge.md)        |
-| 7 | [Enhancing Multimodal Recommendations with Vision-Language Models and Information-Aware Fusion](https://arxiv.org/abs/2511.02113) <br/> 论文核心：VIRAL——视觉-语言信息感知的多模态推荐框架                         | Hai-Dang Kieu, 2025      | ✅ 已读 |     [笔记](notes/2511/1-week/007-VIRAL.md)      |
-| 8 | [Solving Cold Start in News Recommendations: a RippleNet-based System for Large Scale Media Outlet](https://arxiv.org/abs/2511.02052) <br/>   论文核心：基于RippleNet的新闻推荐冷启动解决方案                     | Karol Radziszewski, 2025 | ✅ 已读 |      [笔记](notes/2511/1-week/008-RippleNet.md)      |
-| 9 | [A Soft-partitioned Semi-supervised Collaborative Transfer Learning Approach for Multi-Domain Recommendation](https://arxiv.org/abs/2511.01404) <br/>   论文核心：IDIOMoE——解决LLM推荐知识纠缠的混合专家模型      | Xiaoyu Liu, 2025         | ⬜️ 未读 |      [笔记](notes/2511/1-week/009-IDIOMoE.md)      |
-| 10 | [Structurally Refined Graph Transformer for Multimodal Recommendation](https://arxiv.org/abs/2511.00584) <br/> 论文核心：推荐系统中新颖物品的安全探索框架（Safe OPG + DEPSUE）                                       | Ke Shi, 2025             | ⬜️ 未读 |     [笔记](notes/2511/1-week/010-Safe-OPG.md)      |
+| # | 论文标题 (Title)                                                                                                                                                                                  | 作者 & 年份                  | 发表期刊/会议-评级  |  状态   |                       我的笔记                       |
+|:-:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------|:-----:|:------------------------------------------------:|:------------------------------------------------:|
+| 1 | [MoTAS: MoE-Guided Feature Selection from TTS-Augmented Speech for Enhanced Multimodal Alzheimer's Early Screening](https://arxiv.org/abs/2511.04541)<br/> 论文核心：利用TTS和ASR增强来增加数据量，并使用混合专家( MoE )机制来改进多模态特征选择，共同增强模型泛化性 | Yongqi Shao,2025 | 2025**ACM Multimedia**-**CCF-A** | ✅ 已读  | [笔记](notes/2511/1-week/001-MoTas.md) |
+| 2 | [Emoface: AI-assisted diagnostic model for differentiating major depressive disorder and bipolar disorder via facial biomarkers](https://arxiv.org/abs/2511.04237)<br/> 论文核心：DRCSD——基于协同信号解耦的去噪推荐模型 | Jiahui Yu，2025 | **npj Mental Health Research** | ✅ 已读 |        [笔记](notes/2511/1-week/002-Emoface.md)        |
+| 3 | [Discourse-Aware Scientific Paper Recommendation via QA-Style Summarization and Multi-Level Contrastive Learning](https://arxiv.org/abs/2511.03330)   <br/> 论文核心：OMRC-MR——语篇感知的科学论文推荐框架         | Shenghua Wang, 2025      |       | ✅ 已读  |       [笔记](notes/2511/1-week/003-OMRC-MR.md)        |
+| 4 | [Generative Sequential Recommendation via Hierarchical Behavior Modeling](https://arxiv.org/abs/2511.03155) <br/>  论文核心：MMCoD——跨模态对比去噪的多模态推荐框架                                                 | Zhefan Wang,2025         |          | ✅ 已读 |        [笔记](notes/2511/1-week/004-MMCoD.md)         |
+| 5 | [No-Human in the Loop: Agentic Evaluation at Scale for Recommendation](https://arxiv.org/abs/2511.03051) <br/> 论文核心：ScalingEval——无人工参与的互补物品推荐LLM评估框架                                          | Tao Zhang, 2025          |           | ✅ 已读 | [笔记](notes/2511/1-week/005-ScalingEval.md) |
+| 6 | [KGBridge: Knowledge-Guided Prompt Learning for Non-overlapping Cross-Domain Recommendation](https://arxiv.org/abs/2511.02181) <br/> 论文核心：KGBridge——知识引导提示学习的非重叠跨域推荐框架                       | Yuhan Wang, 2025         |          | ✅ 已读 |       [笔记](notes/2511/1-week/006-KGBridge.md)        |
+| 7 | [Enhancing Multimodal Recommendations with Vision-Language Models and Information-Aware Fusion](https://arxiv.org/abs/2511.02113) <br/> 论文核心：VIRAL——视觉-语言信息感知的多模态推荐框架                         | Hai-Dang Kieu, 2025      |       | ✅ 已读 |     [笔记](notes/2511/1-week/007-VIRAL.md)      |
+| 8 | [Solving Cold Start in News Recommendations: a RippleNet-based System for Large Scale Media Outlet](https://arxiv.org/abs/2511.02052) <br/>   论文核心：基于RippleNet的新闻推荐冷启动解决方案                     | Karol Radziszewski, 2025 |  | ✅ 已读 |      [笔记](notes/2511/1-week/008-RippleNet.md)      |
+| 9 | [A Soft-partitioned Semi-supervised Collaborative Transfer Learning Approach for Multi-Domain Recommendation](https://arxiv.org/abs/2511.01404) <br/>   论文核心：IDIOMoE——解决LLM推荐知识纠缠的混合专家模型      | Xiaoyu Liu, 2025         |          | ⬜️ 未读 |      [笔记](notes/2511/1-week/009-IDIOMoE.md)      |
+| 10 | [Structurally Refined Graph Transformer for Multimodal Recommendation](https://arxiv.org/abs/2511.00584) <br/> 论文核心：推荐系统中新颖物品的安全探索框架（Safe OPG + DEPSUE）                                       | Ke Shi, 2025             |              | ⬜️ 未读 |     [笔记](notes/2511/1-week/010-Safe-OPG.md)      |
 
 
 ## 202510
