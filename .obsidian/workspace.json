@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "dc82bea27ffaa3cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "152d5fc6f3983d66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f31c08310e9a3309",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/2601/HBN数据集引用论文汇总.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HBN数据集引用论文汇总"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e71df32180c1853f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba7e3f25583fd800",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d7ed48737245814",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "09ae2f107541fd06",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "84f9a89729e41f58",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "cab340ea4bd42910",
+    "type": "split",
+    "children": [
+      {
+        "id": "add025000e228094",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "380d9eb517fa4c0f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "notes/2601/HBN数据集引用论文汇总.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for HBN数据集引用论文汇总"
+            }
+          },
+          {
+            "id": "ae3f2b4c9039b7d4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "notes/2601/HBN数据集引用论文汇总.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from HBN数据集引用论文汇总"
+            }
+          },
+          {
+            "id": "8ad219eea8ee8021",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3f09ebfc39cfd5c1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "773417d45e16d97a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "notes/2601/HBN数据集引用论文汇总.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of HBN数据集引用论文汇总"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "f31c08310e9a3309",
+  "lastOpenFiles": [
+    "notes/2601/论文简单总结/13-Magnetic resonance-based eye tracking.md",
+    "notes/2601/HBN数据集引用论文汇总.md",
+    "notes/2601/论文简单总结/12-Predicting individual cases.md",
+    "notes/2601/论文简单总结/11-brainlife.io.md",
+    "notes/2601/论文简单总结/10-Generalizable and transportable resting-state neural signatures.md",
+    "notes/2601/论文简单总结/9-Functional connectivity development.md",
+    "notes/2601/论文简单总结/5-data leakage.md",
+    "notes/2601/论文简单总结",
+    "notes/2601"
+  ]
+}
