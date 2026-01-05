@@ -183,8 +183,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "f31c08310e9a3309",
+  "active": "5d7ed48737245814",
   "lastOpenFiles": [
+    "notes/2601/论文/需阅读/1-Power and reproducibility in the external validation of brain-phenotype predictions.pdf",
+    "notes/2601/论文/需阅读/1-Domain adapted brain network fusion captures variance related to pubertal brain development and mental health.pdf",
+    "notes/2601/论文/需阅读/1-An analysis-ready and quality controlled resource for pediatric brain white-matter research.pdf",
+    "notes/2601/论文/需阅读/1-A deep learning model for brain segmentation across pediatric and adult populations.pdf",
+    "notes/2601/论文/需阅读/1-Using deep learning to predict internalizing problems from brain structure in youth.pdf",
+    "notes/2601/论文/需阅读/1-Beyond homogeneity charting the landscape of heterogeneity in neurodevelopmental and psychiatric electroencephalography.pdf",
+    "notes/2601/论文/需阅读/1-Behaviour-correlated profiles of cerebellar-cerebral functional connectivity observed in independent neurodevelopmental disorder cohorts.pdf",
+    "notes/2601/论文/需阅读/1-Analysis of aperiodic activity in obsessive-compulsive disorder and major depression.pdf",
+    "notes/2601/论文/需阅读/1-Data leakage inflates prediction performance in connectome-based machine learning models.pdf",
+    "notes/2601/论文/需阅读/1-Functional connectivity development along the sensorimotor-association axis enhances the cortical hierarchy.pdf",
+    "notes/2601/论文/需阅读/1-Generalizable and transportable resting-state neural signatures characterized by functional networks, neurotransmitters, and clinical symptoms in autism.pdf",
     "notes/2601/论文简单总结/40-Moving beyond.md",
     "notes/2601/HBN数据集引用论文汇总.md",
     "notes/2601/论文简单总结/39-Symptom dimensions.md",
@@ -216,8 +227,6 @@
     "notes/2601/论文简单总结/11-brainlife.io.md",
     "notes/2601/论文简单总结/10-Generalizable and transportable resting-state neural signatures.md",
     "notes/2601/论文简单总结/9-Functional connectivity development.md",
-    "notes/2601/论文简单总结/5-data leakage.md",
-    "notes/2601/论文简单总结",
-    "notes/2601"
+    "notes/2601/论文简单总结/5-data leakage.md"
   ]
 }
