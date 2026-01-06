@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/2601/HBN数据集引用论文汇总.md",
+                "file": "notes/2601/论文简单总结/23-An analysis-ready.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HBN数据集引用论文汇总"
+              "title": "23-An analysis-ready"
             }
           }
         ],
@@ -103,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330.5
+    "width": 213.5
   },
   "right": {
     "id": "cab340ea4bd42910",
@@ -210,10 +210,26 @@
   },
   "active": "ee550737ba3c1148",
   "lastOpenFiles": [
+    "notes/2601/HBN数据集引用论文汇总.md",
+    "notes/2601/论文/需阅读/1-Distinct brain network features predict internalizing and externalizing traits in children, adolescents and adults.pdf",
+    "notes/2601/论文简单总结/24-Distinct brain network features.md",
+    "notes/2601/论文简单总结/23-An analysis-ready.md",
+    "notes/2601/论文简单总结/22-Domain adapted brain network.md",
+    "notes/2601/论文简单总结/21-Power and reproducibility.md",
+    "notes/2601/论文简单总结/17-Evidence from “big data”.md",
+    "notes/2601/论文简单总结/20-Human thalamocortical structural connectivity.md",
+    "notes/2601/论文简单总结/16-Identifying individual brain development.md",
+    "notes/2601/论文简单总结/14-Cortical and subcortical brain structure.md",
+    "notes/2601/论文简单总结/13-Magnetic resonance-based eye tracking.md",
+    "notes/2601/论文简单总结/12-Predicting individual cases.md",
+    "notes/2601/论文简单总结/11-brainlife.io.md",
+    "notes/2601/论文简单总结/9-Functional connectivity development.md",
+    "notes/2601/论文简单总结/10-Generalizable and transportable resting-state neural signatures.md",
+    "notes/2601/论文简单总结/5-data leakage.md",
+    "notes/2512/1-week/1_interpretable.md",
     "notes/2601/截屏2026-01-05 15.30.00.png",
     "notes/2601/截屏2026-01-05 15.28.24.png",
     "notes/2601/截屏2026-01-05 16.41.03.png",
-    "notes/2601/HBN数据集引用论文汇总.md",
     "notes/2601/论文/需阅读/1-Power and reproducibility in the external validation of brain-phenotype predictions.pdf",
     "notes/2601/论文/需阅读/1-Domain adapted brain network fusion captures variance related to pubertal brain development and mental health.pdf",
     "notes/2601/论文/需阅读/1-An analysis-ready and quality controlled resource for pediatric brain white-matter research.pdf",
@@ -223,7 +239,6 @@
     "notes/2601/论文/需阅读/1-Behaviour-correlated profiles of cerebellar-cerebral functional connectivity observed in independent neurodevelopmental disorder cohorts.pdf",
     "notes/2601/论文/需阅读/1-Analysis of aperiodic activity in obsessive-compulsive disorder and major depression.pdf",
     "notes/2601/论文/需阅读/1-Data leakage inflates prediction performance in connectome-based machine learning models.pdf",
-    "notes/2601/论文/需阅读/1-Functional connectivity development along the sensorimotor-association axis enhances the cortical hierarchy.pdf",
     "notes/2601/论文简单总结/40-Moving beyond.md",
     "notes/2601/论文简单总结/39-Symptom dimensions.md",
     "notes/2601/论文简单总结/38-A foundation model.md",
@@ -236,21 +251,7 @@
     "notes/2601/论文简单总结/30-Beyond homogeneity.md",
     "notes/2601/论文简单总结/29-Using deep learning.md",
     "notes/2601/截屏2026-01-05 16.10.52.png",
-    "notes/2601/论文简单总结/26-A deep learning model.md",
     "notes/2601/截屏2026-01-05 15.59.54.png",
-    "notes/2601/截屏2026-01-05 15.56.30.png",
-    "notes/2601/论文简单总结/23-An analysis-ready.md",
-    "notes/2601/论文简单总结/22-Domain adapted brain network.md",
-    "notes/2601/论文简单总结/21-Power and reproducibility.md",
-    "notes/2601/论文简单总结/20-Human thalamocortical structural connectivity.md",
-    "notes/2601/论文简单总结/17-Evidence from “big data”.md",
-    "notes/2601/论文简单总结/16-dentifying individual brain development.md",
-    "notes/2601/论文简单总结/14-Cortical and subcortical brain structure.md",
-    "notes/2601/论文简单总结/13-Magnetic resonance-based eye tracking.md",
-    "notes/2601/论文简单总结/12-Predicting individual cases.md",
-    "notes/2601/论文简单总结/11-brainlife.io.md",
-    "notes/2601/论文简单总结/10-Generalizable and transportable resting-state neural signatures.md",
-    "notes/2601/论文简单总结/9-Functional connectivity development.md",
-    "notes/2601/论文简单总结/5-data leakage.md"
+    "notes/2601/截屏2026-01-05 15.56.30.png"
   ]
 }
