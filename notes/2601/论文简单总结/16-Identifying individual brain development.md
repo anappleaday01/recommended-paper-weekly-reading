@@ -267,8 +267,8 @@ graph TD
     A --> D[研究方法与数据]
 
     D --> D1[1. 数据来源]
-    D1 --> D11[主要数据：Child Mind Institute Biobank (HBN)，含fMRI和EEG]
-    D1 --> D12[补充数据：MIPDB (EEG数据，成人)]
+    D1 --> D11[主要数据：Child Mind Institute Biobank （HBN），含fMRI和EEG]
+    D1 --> D12[补充数据：MIPDB （EEG数据，成人）]
     D1 --> D13[样本：健康个体及焦虑、抑郁、ADHD、ASD、学习障碍、语言障碍患者，年龄5-44岁]
 
     D --> D2[2. 多模态特征提取]
