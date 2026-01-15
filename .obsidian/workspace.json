@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/2601/论文简单总结/16-Identifying individual brain development.md",
+                "file": "notes/2601/HBN数据集引用论文汇总.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "16-Identifying individual brain development"
+              "title": "HBN数据集引用论文汇总"
+            }
+          },
+          {
+            "id": "28c6f189ec35188e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/2601/数据集分析.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "数据集分析"
             }
           },
           {
@@ -63,7 +77,8 @@
               "title": "49-Genetic modulation"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +135,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5
+    "width": 388.5,
+    "collapsed": true
   },
   "right": {
     "id": "cab340ea4bd42910",
@@ -225,12 +241,26 @@
       "bases:Create new base": false
     }
   },
-  "active": "f31c08310e9a3309",
+  "active": "28c6f189ec35188e",
   "lastOpenFiles": [
+    "notes/2512/问题回答.md",
+    "数据集.md",
+    "notes/2601/数据集分析.md",
+    "截屏2026-01-14 16.37.27.png",
+    "截屏2026-01-14 16.36.53 1.png",
+    "截屏2026-01-14 16.36.53.png",
+    "截屏2026-01-14 16.39.44.png",
     "notes/2601/HBN数据集引用论文汇总.md",
+    "notes/2601/数据集下载研究.md",
+    "37cdcc0a798e552939cc82178addb382.jpg",
+    "85d6c0d23cce85cbf6810101bd3e8f42.png",
+    "f3784d26095537ebb924e25b85971c0d.png",
+    "2967c18c9a4f8291f62dd6ccc6062c01.jpg",
+    "684f3c8f009319103375d934a82ef588.png",
+    "135fe1509f9eb82601519a4721cf6627.png",
+    "notes/2601/论文简单总结/16-Identifying individual brain development.md",
     "notes/2601/论文简单总结/12-Predicting individual cases.md",
     "notes/2601/论文简单总结/45-Peer victimization.md",
-    "notes/2512/问题回答.md",
     "notes/2601/论文简单总结/43-Simulation-based inference.md",
     "毕设思路.md",
     "notes/2601/week-2/Mitigating-Interviewer-Bias-in-Multimodal-Depression-Detection--An-Approach-with-Adversarial-Learning-and-Contextual-Positional-Encoding_2026-01-14-21_07_07.pdf",
@@ -246,31 +276,18 @@
     "notes/2601/论文简单总结/13-Magnetic resonance-based eye tracking.md",
     "notes/2601/论文/需阅读/1-47Interpretable and integrative deep learning for discovering brain-behaviour associations.pdf",
     "notes/2601/论文/需阅读/1-46Association between attention-deficit:hyperactivity disorder symptom severity and white matter integrity moderated by in-scanner head motion.pdf",
-    "截屏2026-01-14 19.11.25.png",
     "notes/2601/论文/需阅读/1-45Peer victimization and the association with hippocampal development and working memory in children with ADHD and typically-developing children.pdf",
     "notes/2601/论文/需阅读/1-44Cortical signatures in behaviorally clustered autistic traits subgroups a population-based study.pdf",
     "notes/2601/论文/需阅读/1-43Simulation-based inference of developmental EEG maturation with the spectral graph model.pdf",
     "notes/2601/论文/只提及/0-41Tablet-based arithmetic fluency assessment reveals developments in math cognition and math achievement from childhood to adolescence.pdf",
     "notes/template.md",
-    "notes/2601/截屏2026-01-05 15.28.24.png",
     "test study/pytest+allure+jenkins.md",
-    "截屏2026-01-08 16.46.51.png",
-    "截屏2026-01-08 16.46.30.png",
-    "截屏2026-01-08 16.40.50.png",
-    "截屏2026-01-08 16.29.19.png",
-    "截屏2026-01-08 16.29.05.png",
     "test study/Jenkins pipeline.md",
-    "截屏2026-01-08 15.43.03.png",
-    "截屏2026-01-08 15.42.57.png",
-    "截屏2026-01-08 15.42.23.png",
     "notes/2601/论文简单总结/5-data leakage.md",
     "notes/2601/论文简单总结/10-Generalizable and transportable resting-state neural signatures.md",
     "notes/2601/论文简单总结/11-brainlife.io.md",
     "notes/2601/论文简单总结/14-Cortical and subcortical brain structure.md",
-    "notes/2601/论文简单总结/16-Identifying individual brain development.md",
     "notes/2601/论文简单总结/17-Evidence from “big data”.md",
-    "notes/2601/论文简单总结/40-Moving beyond.md",
-    "notes/2601/论文简单总结/39-Symptom dimensions.md",
-    "notes/2601/论文简单总结/38-A foundation model.md"
+    "notes/2601/论文简单总结/40-Moving beyond.md"
   ]
 }
