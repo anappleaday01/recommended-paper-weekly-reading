@@ -13,20 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/2601/HBN数据集引用论文汇总.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "HBN数据集引用论文汇总"
-            }
-          },
-          {
-            "id": "28c6f189ec35188e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "notes/2601/数据集分析.md",
                 "mode": "source",
                 "source": false
@@ -36,7 +22,47 @@
             }
           },
           {
+            "id": "28c6f189ec35188e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/2601/表型数据与受试者标签.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "表型数据与受试者标签"
+            }
+          },
+          {
+            "id": "3b214bda76376c2e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20260115182451.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260115182451"
+            }
+          },
+          {
             "id": "839b64c783a99e7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/2512/问题回答.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "问题回答"
+            }
+          },
+          {
+            "id": "286b8457f104c955",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -55,12 +81,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "毕设思路.md",
+                "file": "notes/2601/week-3/毕设-语音特征提取与对齐.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "毕设思路"
+              "title": "毕设-语音特征提取与对齐"
             }
           },
           {
@@ -243,26 +269,32 @@
   },
   "active": "28c6f189ec35188e",
   "lastOpenFiles": [
-    "notes/2512/问题回答.md",
-    "数据集.md",
+    "截屏2026-01-21 11.48.09.png",
+    "截屏2026-01-21 11.48.00.png",
+    "截屏2026-01-21 11.45.40.png",
+    "截屏2026-01-21 11.45.32.png",
     "notes/2601/数据集分析.md",
-    "截屏2026-01-14 16.37.27.png",
-    "截屏2026-01-14 16.36.53 1.png",
-    "截屏2026-01-14 16.36.53.png",
-    "截屏2026-01-14 16.39.44.png",
-    "notes/2601/HBN数据集引用论文汇总.md",
     "notes/2601/数据集下载研究.md",
-    "37cdcc0a798e552939cc82178addb382.jpg",
-    "85d6c0d23cce85cbf6810101bd3e8f42.png",
-    "f3784d26095537ebb924e25b85971c0d.png",
-    "2967c18c9a4f8291f62dd6ccc6062c01.jpg",
-    "684f3c8f009319103375d934a82ef588.png",
-    "135fe1509f9eb82601519a4721cf6627.png",
+    "notes/2601/HBN数据集引用论文汇总.md",
+    "notes/2601/表型数据与受试者标签.md",
+    "表型数据",
+    "截屏2026-01-21 10.37.35.png",
+    "截屏2026-01-21 10.37.46.png",
+    "截屏2026-01-21 10.38.14.png",
+    "notes/2601/week-3/毕设-语音特征提取与对齐.md",
+    "截屏2026-01-20 09.02.40.png",
+    "截屏2026-01-20 09.02.34.png",
+    "截屏2026-01-20 09.02.28.png",
+    "截屏2026-01-20 09.00.06.png",
+    "毕设思路.md",
+    "notes/2512/问题回答.md",
+    "notes/2601/week-3",
+    "外周信号.md",
+    "数据集.md",
     "notes/2601/论文简单总结/16-Identifying individual brain development.md",
     "notes/2601/论文简单总结/12-Predicting individual cases.md",
     "notes/2601/论文简单总结/45-Peer victimization.md",
     "notes/2601/论文简单总结/43-Simulation-based inference.md",
-    "毕设思路.md",
     "notes/2601/week-2/Mitigating-Interviewer-Bias-in-Multimodal-Depression-Detection--An-Approach-with-Adversarial-Learning-and-Contextual-Positional-Encoding_2026-01-14-21_07_07.pdf",
     "notes/2601/week-2/Mitigating Interviewer Bias in Multimodal Depression Detection- An Approach with Adversarial Learning and Contextual Positional Encoding.pdf",
     "notes/2601/论文简单总结/47-Interpretable and integrative deep learning.md",
@@ -278,16 +310,10 @@
     "notes/2601/论文/需阅读/1-46Association between attention-deficit:hyperactivity disorder symptom severity and white matter integrity moderated by in-scanner head motion.pdf",
     "notes/2601/论文/需阅读/1-45Peer victimization and the association with hippocampal development and working memory in children with ADHD and typically-developing children.pdf",
     "notes/2601/论文/需阅读/1-44Cortical signatures in behaviorally clustered autistic traits subgroups a population-based study.pdf",
-    "notes/2601/论文/需阅读/1-43Simulation-based inference of developmental EEG maturation with the spectral graph model.pdf",
-    "notes/2601/论文/只提及/0-41Tablet-based arithmetic fluency assessment reveals developments in math cognition and math achievement from childhood to adolescence.pdf",
     "notes/template.md",
     "test study/pytest+allure+jenkins.md",
     "test study/Jenkins pipeline.md",
     "notes/2601/论文简单总结/5-data leakage.md",
-    "notes/2601/论文简单总结/10-Generalizable and transportable resting-state neural signatures.md",
-    "notes/2601/论文简单总结/11-brainlife.io.md",
-    "notes/2601/论文简单总结/14-Cortical and subcortical brain structure.md",
-    "notes/2601/论文简单总结/17-Evidence from “big data”.md",
-    "notes/2601/论文简单总结/40-Moving beyond.md"
+    "notes/2601/论文简单总结/10-Generalizable and transportable resting-state neural signatures.md"
   ]
 }
